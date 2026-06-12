@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ReviewSense: NLP-Based Product Review Intelligence and Search System
 
 ReviewSense is a complete Streamlit + ML project for analyzing product reviews. It is designed for portfolios, internships, and applications such as Amazon ML Summer School.
@@ -189,3 +190,6 @@ Built an NLP system to analyze product reviews using sentiment classification, a
 ## Interview Explanation
 
 I built an NLP-based product review intelligence system that does not just classify reviews as positive or negative. It extracts feature-wise opinions such as battery, delivery, price, performance, and quality, enables search inside reviews, ranks helpful reviews, and gives buyer-persona recommendations.
+=======
+# ReviewSense
+>>>>>>> 54d342b8d1f073651d323d4b3395234a733aab83
