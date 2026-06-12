@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 # ReviewSense: NLP-Based Product Review Intelligence and Search System
-
+LIVE LINK - https://reviewsenseml.streamlit.app/
 ReviewSense is a complete Streamlit + ML project for analyzing product reviews. It is designed for portfolios, internships, and applications such as Amazon ML Summer School.
 
 Instead of doing only positive/negative sentiment analysis, ReviewSense adds:
@@ -14,6 +14,8 @@ Instead of doing only positive/negative sentiment analysis, ReviewSense adds:
 - Evaluation metrics
 
 ## Demo Preview
+Run on browser:
+https://reviewsenseml.streamlit.app/
 
 Run locally:
 
